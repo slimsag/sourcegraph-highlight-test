@@ -1,1 +1,1 @@
-# sourcegraph-highlight-test
+error
